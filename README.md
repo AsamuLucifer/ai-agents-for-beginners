@@ -1,3 +1,15 @@
+---
+
+<div align="center">
+
+🇨🇳 **[点击查看中文版本](./README.zh-CN.md)** | **简体中文 README**
+
+> **AI 智能体入门** — 微软官方开源课程，完整中文翻译版本
+
+</div>
+
+---
+
 # AI Agents for Beginners - A Course
 
 ![AI Agents for Beginners](./images/repo-thumbnailv3.png)
